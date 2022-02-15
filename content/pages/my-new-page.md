@@ -2,7 +2,7 @@
 title: "My New Page"
 description: "A test page that is super cool"
 date: 2022-02-15
-thumbnail: ./Images/desktop.jpg
+thumbnail: "./Images/desktop.jpg"
 draft: false
 ---
 
