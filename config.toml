@@ -6,6 +6,12 @@ metaDataFormat = "yaml"
 googleAnalytics = "UA-128270403-1"
 
 [params]
+  
+  introTitle = "Welcome to the Digital Scholarship at Brock"
+  introSubtitle = "This is the place to find all the cool stuff"
+  
+  
+  
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
