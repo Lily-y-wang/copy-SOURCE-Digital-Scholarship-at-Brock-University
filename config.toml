@@ -1,6 +1,6 @@
 baseURL = 'https://DanielBrett.github.io/copy-Digital-Scholarship-at-Brock-University'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Digital Scholarship at Brock University'
 theme = 'blist'
 metaDataFormat = "yaml"
 googleAnalytics = "UA-128270403-1"
