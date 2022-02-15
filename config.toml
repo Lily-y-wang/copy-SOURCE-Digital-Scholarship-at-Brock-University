@@ -36,6 +36,9 @@ googleAnalytics = "UA-128270403-1"
 [[menu.main]]
   name = "About"
   url = "/about"
+  
+  name = "Test"
+  url = "/pages/my-new-page"
 
 [build]
   writeStats = true
