@@ -29,7 +29,7 @@ googleAnalytics = "UA-128270403-1"
   
   
   # The page bundle that is shown on the front page
-  frontBundle = "./pages"
+  frontBundle = "/pages"
 
   
 [params.homepage.social]
@@ -50,7 +50,7 @@ googleAnalytics = "UA-128270403-1"
   
 [[menu.main]]
   name = "Test Page"
-  url = "./pages/my-new-page"
+  url = "/pages/my-new-page"
 
 [build]
   writeStats = true
