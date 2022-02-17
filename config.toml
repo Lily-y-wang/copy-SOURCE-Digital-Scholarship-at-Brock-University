@@ -6,7 +6,6 @@ metaDataFormat = "yaml"
 googleAnalytics = "UA-128270403-1"
 
 
-contentDir = "content/" #English
 [params]
   
   introTitle = "Welcome to the Digital Scholarship at Brock"
@@ -31,7 +30,7 @@ contentDir = "content/" #English
   
   
   # The page bundle that is shown on the front page
-  frontBundle = "pages"
+  frontBundle = "blog"
 
   
 [params.homepage.social]
@@ -52,7 +51,7 @@ contentDir = "content/" #English
   
 [[menu.main]]
   name = "Test Page"
-  url = "pages/my-new-page"
+  url = "my-new-page"
 
 [build]
   writeStats = true
