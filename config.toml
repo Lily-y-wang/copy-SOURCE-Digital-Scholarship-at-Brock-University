@@ -17,7 +17,7 @@ googleAnalytics = "UA-128270403-1"
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Custom copyright - optional
   copyright = "Copyright © 2022· All rights reserved."
